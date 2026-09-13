@@ -1,3 +1,14 @@
+## ⚡ Quickstart (Python)
+
+Fetch 422+ days of Bitcoin thermodynamic scarcity metrics for 100 sats via L402:
+
+```python
+from client_example import BitcoinStratigraphyClient
+
+client = BitcoinStratigraphyClient()
+# Returns 402 challenge & Lightning invoice
+client.fetch_data() 
+
 # Bitcoin Stratigraphy 422-Day Dataset
 > 422 consecutive days of Bitcoin structural network metrics, thermodynamic scarcity calculations, and price models toward the $10M horizon.
 
