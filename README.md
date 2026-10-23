@@ -27,7 +27,3 @@ This repository is strictly dual-licensed to protect proprietary corporate IP.
    - Shields your proprietary multi-agent logic and closed-source IP.
    - Includes **Automated Compliance SLAs** (automated key rotations & cryptographic snapshots).
    - Inquiries: `licensing@bitcoinstratigraphy.com`
-
-## 📊 The 422-Day Dataset (Thermodynamic Grounding)
-Includes 422+ consecutive days of Bitcoin structural network metrics, thermodynamic scarcity calculations, and price models toward the $10M horizon. This unforgeable dataset acts as the mathematical anchor for AI node alignment.
-
