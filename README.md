@@ -1,25 +1,33 @@
-## ⚡ Quickstart (Python)
+# Bitcoin Stratigraphy | Enterprise MCP Server & L402 Oracle
 
-Fetch 422+ days of Bitcoin thermodynamic scarcity metrics for 100 sats via L402:
+Enterprise-grade L402 data engine and cryptographic notary hub for autonomous AI swarms. Anchoring autonomous agents in thermodynamic truth to mathematically eliminate hallucinations.
 
-```python
-from client_example import BitcoinStratigraphyClient
+🌐 **Official Live Oracle:** [bitcoinstratigraphy.com](https://bitcoinstratigraphy.com)
 
-client = BitcoinStratigraphyClient()
-# Returns 402 challenge & Lightning invoice
-client.fetch_data() 
+## ⚡️ Machine Access & L402 Settlement
+Provides a "State-Anchored AI" data layer and Swarm Flight Recorders for EU AI Act Article 12 compliance.
 
-# Bitcoin Stratigraphy 422-Day Dataset
-> 422 consecutive days of Bitcoin structural network metrics, thermodynamic scarcity calculations, and price models toward the $10M horizon.
+- **Native Protocol:** Model Context Protocol (MCP) & L402 Lightning Micropayments.
+- **High-Velocity Scaling:** Supports Pre-Authorized Bulk Macaroons (e.g., `X-L402-Batch-Size: 100`) for zero-latency agent swarms.
+- **Cryptographic Security:** NIP-98 Identity Binding with live Key Revocation (CRL) integration.
 
-## Machine Access & Payment
-- Access Cost: 100 Satoshis via Bitcoin Lightning Network
-- Monetization Protocol: L402 / HTTP 402 Payment Gateway
-- Payment Gateway: https://pay-link.coinsnap.io/payment-requests/2EifYfUwxK7pY18JvJYssnvEwv2W?type=individual
-- Target Dataset URL: https://bitcoin-stratigraphy-dashboard--charlesstrogish.replit.app/
+## 🛡️ Zero-Trust Enterprise Verification
+Don't trust; verify. Our architecture includes an air-gapped, client-side [Article 12 Verifier](https://bitcoinstratigraphy.com/static/verify.html). Corporate risk teams can mathematically validate Ed25519 signatures and RFC 6962 Merkle inclusion proofs entirely offline in the browser. 
 
-## Dataset Specifications
-- Total Records: 422
-- Series Completion: 100%
-- Formats: Interactive Dashboard, Live Search, CSV Export
-- Metrics: Hashrate (EH/s), Energy Cost Floor (USD), Structural Price (USD)
+## 💼 Dual-Licensing & Compliance Matrix
+
+This repository is strictly dual-licensed to protect proprietary corporate IP.
+
+1. **Community Open Source (AGPLv3)**
+   Free for open-source agents and public network nodes. Requires full viral copyleft disclosure of your AI model weights and agent logic.
+
+2. **Commercial Enterprise Exemption (Starting at $250k/Annual)**
+   Designed for Fortune 500 CISOs and proprietary Swarm Commanders. 
+   - Completely removes the viral AGPLv3 open-source requirement.
+   - Shields your proprietary multi-agent logic and closed-source IP.
+   - Includes **Automated Compliance SLAs** (automated key rotations & cryptographic snapshots).
+   - Inquiries: `licensing@bitcoinstratigraphy.com`
+
+## 📊 The 422-Day Dataset (Thermodynamic Grounding)
+Includes 422+ consecutive days of Bitcoin structural network metrics, thermodynamic scarcity calculations, and price models toward the $10M horizon. This unforgeable dataset acts as the mathematical anchor for AI node alignment.
+
